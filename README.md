@@ -18,7 +18,7 @@ A nave Aurora Siger está em órbita de Marte e precisa enviar seis módulos à 
 |---|---|
 | `docs/relatorio_mgpeb.pdf` | relatório técnico (9 páginas): cenário, portas lógicas, protótipo, modelo matemático, história da computação, ESG e anexo de estruturas de dados |
 | `src/mgpeb.py` | protótipo do MGPEB, comentado e executável |
-| Anexo A do relatório | uso de listas, filas e pilhas, com exemplos do código |
+| `docs/anexo_estruturas_de_dados.pdf` | anexo de estruturas de dados (3 páginas): uso de listas, filas e pilhas, com o código das classes e exemplos da simulação. O mesmo conteúdo também está no Anexo A do relatório |
 
 ## Como executar
 
