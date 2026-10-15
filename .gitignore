@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# ferramentas de build (nao fazem parte da entrega)
+tools/
+assets/saida_mgpeb.txt
+assets/tabela_*.png
+docs/relatorio.md
+docs/*.docx
